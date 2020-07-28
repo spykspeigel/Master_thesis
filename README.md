@@ -1,4 +1,4 @@
-# Master_thesis_S-Matrix_theory
+# Master_thesis: S-Matrix_theory
 
 S-matrix theory was an ambitious program to constrain the possible scattering amplitudes
 of Poincare invariant QFTs based on a list of basic tenets expected on physical grounds. The
